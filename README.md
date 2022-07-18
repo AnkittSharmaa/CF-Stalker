@@ -24,5 +24,9 @@ This is website for analytics visualization site for [Codeforces online judge](h
 * Compared rating time-line
 * Total tried problem count compared
 * Total solved problem count compared
- and many more.
+* Average and max attempts compared
+* Count of problems solved with one submission compared
+* Max AC for a single problem compared
+* Tags compared
+* Levels compared
 
