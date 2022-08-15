@@ -2,6 +2,10 @@
 
 This is website for analytics visualization site for [Codeforces online judge](http://codeforces.com/) users using [Codeforces API](https://codeforces.com/apiHelp).
 
+
+
+<img src="https://www.linkpicture.com/q/Screenshot-from-2022-08-15-22-02-40.png" alt="smartmockups-kbyey1qx" border="0">
+
 ### Current features
 
 #### Single User Analytics
